@@ -1,6 +1,8 @@
-CMPE 258: Deep Learning
-Swati Narkhede
-SJSU ID: 014526915
+#CMPE 258: Deep Learning
+
+#Swati Narkhede
+
+#SJSU ID: 014526915
 
 Below are the URLs of Medium Article and PPT uploaded to Slideshare:
 
